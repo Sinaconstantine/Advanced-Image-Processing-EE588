@@ -1,12 +1,7 @@
-# Advanced-Image-Processing-EE588
+# In this repository, all the codes from Advanced Image Processing is uploaded. 
 
+# Copyright statement (09/13/2020): 
 
-In this project, we will be using the Berkeley Segmentation Dataset 300.
-
-https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
-The description of the segmentation (ground truth) file format can be found at:
-
-https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/seg-format.txt
-The image files and human segmentation files can be downloaded at following links:
-
-https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/BSDS300-images.tgz https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/BSDS300-human.tgz
+All the materials provided here belongs to Sina Zamen (szamen at nmsu dot edu) unless otherwise stated. Please do not use exact codes in your class projects and do not redistribute these projects. Please feel free to use these codes in your research as you wish. 
+# Licence 
+* [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
