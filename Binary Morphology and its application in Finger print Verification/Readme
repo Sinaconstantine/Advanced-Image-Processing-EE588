@@ -1,0 +1,4 @@
+This project applies basic morphological process for enhancement of fingerprints, detecting minutiae and fingerprint matching. 
+
+The hong enhancement package used in this project belongs to Peter Kovesi’s and it is available at: 
+https://github.com/Utkarsh-Deshmukh/Fingerprint-Enhancement-Python
