@@ -1,8 +1,9 @@
 In this project, we will use the CalTech101 dataset, which is a standard dataset used for image classification.
-You can find important information about this dataset at (http://www.vision.caltech.edu/Image_Datasets/Caltech101/). From that webpage, download the dataset
-itself (http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz) which is some 126 MB and also the annotations
-(http://www.vision.caltech.edu/Image_Datasets/Caltech101/Annotations.tar) which is some 13 MB and which will allow us to focus our feature extraction on only the objects in the images. Extract the image
-dataset and the annotations in your working directory. 
+You can find important information about this dataset at (http://www.vision.caltech.edu/Image_Datasets/Caltech101/). 
+From that webpage, download the dataset itself (http://www.vision.caltech.edu/Image_Datasets/Caltech101/101_ObjectCategories.tar.gz) which is some 126 MB and also the annotations
+(http://www.vision.caltech.edu/Image_Datasets/Caltech101/Annotations.tar) which is some 13 MB and which will allow us to focus our feature extraction on only the objects in the images. 
 
-The images will extract to a 101_ObjectCategories/ directory, under which there are 102 directories named according to the object contained in the image (e.g., accordion/ or pizza/), under which are files with file format image_XXXX.jpg, where XXXX is a four digit number. The annotations will extract to an
-Annotations/ directory, underneath which there are 101 directories named the same categories (for the most part) as the 101_ObjectCategories/ categories, under which are files annotation_XXXX.mat, where XXXX is a four digit number.
+Extract the image dataset and the annotations in your working directory. 
+
+The images will extract to a 101_ObjectCategories/ directory, under which there are 102 directories named according to the object contained in the image (e.g., accordion/ or pizza/), under which are files with file format image_XXXX.jpg, where XXXX is a four digit number. 
+The annotations will extract to an Annotations/ directory, underneath which there are 101 directories named the same categories (for the most part) as the 101_ObjectCategories/ categories, under which are files annotation_XXXX.mat, where XXXX is a four digit number.
